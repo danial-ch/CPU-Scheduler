@@ -10,4 +10,4 @@ Image of the application :
 <br />
 <br />
 <br />
-<img src="/demo/cpu_scheduler.jpg" width="40%" height="auto" />
+<img src="/demo/cpu_scheduler.jpg" width="60%" height="auto" />
